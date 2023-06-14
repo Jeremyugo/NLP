@@ -7,3 +7,4 @@ This repository was created to make it easier to navigate through my projects. A
 3. [Text Summarization](https://github.com/Jeremyugo/Text-Summarization-BART-Large)
 4. [Text Classification - News classifier](https://github.com/Jeremyugo/News-Category-Classifier)
 5. [Book recommender using Tensorflow Recommenders](https://github.com/Jeremyugo/Book-recommender-using-tensorflow-recommenders)
+6. [Wikipedia Text Summarization using Frequency table](https://github.com/Jeremyugo/Wikipedia-Text-Summarization)
